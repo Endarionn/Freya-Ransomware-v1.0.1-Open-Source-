@@ -1,0 +1,20 @@
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\bin\Debug\Freya Ransomware v1.0.1.exe.config
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\bin\Debug\Freya Ransomware v1.0.1.exe
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\bin\Debug\Freya Ransomware v1.0.1.pdb
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.csproj.AssemblyReference.cache
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya_Ransomware_v1._0._1.Form1.resources
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya_Ransomware_v1._0._1.Properties.Resources.resources
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.csproj.GenerateResource.cache
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.exe
+C:\Users\ygzat\Desktop\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.pdb
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\bin\Debug\Freya Ransomware v1.0.1.exe.config
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\bin\Debug\Freya Ransomware v1.0.1.exe
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\bin\Debug\Freya Ransomware v1.0.1.pdb
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.csproj.AssemblyReference.cache
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya_Ransomware_v1._0._1.Form1.resources
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya_Ransomware_v1._0._1.Properties.Resources.resources
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.csproj.GenerateResource.cache
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.exe
+C:\Users\ygzat\source\repos\C#\Freya Ransomware v1.0.1\Freya Ransomware v1.0.1\obj\Debug\Freya Ransomware v1.0.1.pdb

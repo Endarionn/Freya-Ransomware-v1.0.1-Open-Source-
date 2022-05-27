@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Freya Ransomware v1.0.1", "Freya Ransomware v1.0.1\Freya Ransomware v1.0.1.csproj", "{F15020D3-50B5-4A87-B388-00E300A296CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F15020D3-50B5-4A87-B388-00E300A296CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15020D3-50B5-4A87-B388-00E300A296CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15020D3-50B5-4A87-B388-00E300A296CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15020D3-50B5-4A87-B388-00E300A296CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DAD85B5-225D-4094-8BBC-729FF9D9125B}
+	EndGlobalSection
+EndGlobal
